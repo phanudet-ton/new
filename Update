@@ -1,0 +1,23 @@
+{ 
+"Version":"1.0.2",
+
+"Url":"https://github.com/phanudet-ton/Update-files/raw/main/server.zip" ,
+
+"Changelog":"
+*Hi🖐️
+*New Update ศ. 6 ส.ค 64
+
+➢ เซิฟ SG , HK , IN , JP , TH
+➢ ใช้งาน > TRUE
+➢ ใช้งานทั่วไป ดูหนัง ฟังเพลง...
+➢ Unlimited bandwidth
+
+
+",
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
